@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 
-## 💜 Olá, meu nome é <strong>{Mario Gomes}!</strong>
+## 💜 Olá, meu nome é <strong>Mario Gomes!</strong>
 
 > Faça uma breve aprensentação sobre você e a sua área.
 

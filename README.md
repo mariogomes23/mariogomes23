@@ -1,13 +1,13 @@
 <h1 align="center">Oi 👋, sou Mario Gomes</h1>
-<h3 align="center">Ciclo completo</h3>
+<h3 align="center">Desenvolvedor</h3>
 
-<p align="left"> <img src="https:/ /komarev.com/ghpvc/?username=mariogomes23&label=Profile%20views&color=0e75b6&style=flat" alt="mariogomes23" /> </p>
+<p align="left"> <img src="https:// komarev.com/ghpvc/?username=mariogomes23&label=Profile%20views&color=0e75b6&style=flat" alt="mariogomes23" /> </p>
 
-<p align="left"> <a href="https://github. com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mariogomes23" alt="mariogomes23" /></a> </ p>
+<p align="left"> <a href="https://github.com /ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mariogomes23" alt="mariogomes23" /></a> </p >
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mariogomes23" target="blank">< imagem alinhar="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mariogomes23" height= "30" largura="40" /></a>
+<a href="https://linkedin.com/in/mariogomes23" target="blank"><img alinhar="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mariogomes23" height= "30" largura="40" /></a>
 </p>
 
 <h3 align="left">Idiomas e ferramentas:</h3>

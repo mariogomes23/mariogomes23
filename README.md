@@ -1,7 +1,6 @@
 <h1 align="center">Oi 👋, sou Mario Gomes</h1>
 <h3 align="center">Desenvolvedor</h3>
 
-<p align="left"> <img src="https:// komarev.com/ghpvc/?username=mariogomes23&label=Profile%20views&color=0e75b6&style=flat" alt="mariogomes23" /> </p>
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align= "left">

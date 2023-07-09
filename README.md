@@ -3,16 +3,16 @@
 
 
 
-<div size='20px'>Olá, meu nome é Domingos  Afonso e sou um desenvolvedor back end com 3 anos de experiência em PHP, CSS, JS, jQuery e Bootstrap. Também tenho conhecimento avançado em MySQL e já trabalhei em diversos projetos usando essas tecnologias.
+<div size='20px'>Olá, meu nome é Mário Gomes e sou um desenvolvedor FullCycle com 5 anos de experiência em PHP, React JS e React Native , Flutter , Angular , Laravel , .NET , Tailwind e Docker. Também tenho conhecimento avançado em MySQL e já trabalhei em diversos projetos usando essas tecnologias.
 
-Minha especialidade é criar soluções de back end robustas e escaláveis, capazes de lidar com grandes quantidades de dados e transações. Além disso, tenho experiência em integração com APIs.
+Minha especialidade é criar soluções de web e Mobile  robustas e escaláveis, capazes de lidar com grandes quantidades de dados e transações. Além disso, tenho experiência em integração com APIs.
 
 
-Se você estiver procurando por um desenvolvedor back end experiente e confiável, entre em contato comigo. Estou ansioso para trabalhar em projetos interessantes e ajudar a levar suas ideias ao próximo nível.
+Se você estiver procurando por um desenvolvedor FullStack experiente e confiável, entre em contato comigo. Estou ansioso para trabalhar em projetos interessantes e ajudar a levar suas ideias ao próximo nível.
     
 <br>
  
-<h1><a href="http://domingosbraganha.tech/">Meu Portofolio</a></h1>
+<h1><a href="#">Meu Portofolio</a></h1>
 </div>
 
 <h2> Sobre mim<img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
@@ -20,22 +20,19 @@ Se você estiver procurando por um desenvolvedor back end experiente e confiáve
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
   
-- 🌱 Atualmente estou aprendendo AWS, Apache Kafka & RabbitMQ
+- 🌱 Atualmente estou aprendendo AWS, Nest JS  & consolidando o Vue JS
   
 - 👯 Estou procurando colaborar em Projectos
   
-- 💬 Pergunte-me sobre Sql, PHP, Laravel, JavaScript
+- 💬 Pergunte-me sobre Sql, PHP, Laravel, React, Angular , .NET etc
   
 
 <h2> Skills </h2>
 
 <p align="center"> 
-    <a href="https://www.gnu.org/software/bash/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
-    </a>
-    <a href="https://www.w3schools.com/css/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-    </a>
+   
+    
+ 
     <a href="https://www.docker.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
     </a>

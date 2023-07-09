@@ -33,6 +33,3 @@ Se você estiver procurando por um desenvolvedor FullStack experiente e confiáv
 <h2> Connect with me </h2>
 <a href = 'https://www.linkedin.com/in/mariogomes23/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>  
 <br>
-<
-
-

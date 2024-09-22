@@ -3,9 +3,8 @@
 
 
 
-<div size='20px'>Olá, meu nome é Mário Gomes e sou um desenvolvedor FullCycle com 5 anos de experiência em PHP, React JS e React Native , Flutter , Angular , Laravel , .NET , Tailwind e Docker. Também tenho conhecimento avançado em MySQL e já trabalhei em diversos projetos usando essas tecnologias.
-
-Minha especialidade é criar soluções de web e Mobile  robustas e escaláveis, capazes de lidar com grandes quantidades de dados e transações. Além disso, tenho experiência em integração com APIs.
+<div size='20px'>
+ Arquiteto de Software especializado em IA, Machine Learning e RPA, focado em automação e otimização de processos empresariais. Lidero projetos com ferramentas como UiPath, desenvolvendo APIs e plataformas para gestão segura de dados e documentos. Busco constantemente inovações que gerem valor para clientes e sociedade
 
 
 Se você estiver procurando por um desenvolvedor FullStack experiente e confiável, entre em contato comigo. Estou ansioso para trabalhar em projetos interessantes e ajudar a levar suas ideias ao próximo nível.
